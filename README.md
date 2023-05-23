@@ -13,6 +13,9 @@ Engineer Rawan explained the main commands in terminal to us.
 She also explained the concept version control system.
 i learned also ddifference between repository and depository.
 and i learned main commands (
+    hi
+    how are you
+    
 add,
 status,
 commit,
